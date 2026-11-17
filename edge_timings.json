@@ -1,0 +1,21 @@
+{
+  "source": "C:\\Users\\kevin\\Documents\\HS HARZ\\Programmierung mobiler Systeme\\Zeitreihen_züge\\1771731551.log",
+  "profiles": [
+    {
+      "loco": "Flixtrain Vectron",
+      "edge": "west_cw_1->west_cw_2",
+      "v_cmd": 70,
+      "n": 2,
+      "delta_t_mean_s": 8.557869,
+      "sigma_s": 8.746894
+    },
+    {
+      "loco": "Flixtrain Vectron",
+      "edge": "west_cw_2->west_cw_3",
+      "v_cmd": 70,
+      "n": 2,
+      "delta_t_mean_s": 7.843099,
+      "sigma_s": 0.54514
+    }
+  ]
+}
